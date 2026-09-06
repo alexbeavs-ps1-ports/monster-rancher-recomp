@@ -1,0 +1,31 @@
+{
+  "schema": "psx.redump-disc-set.v1",
+  "discs": [
+    {
+      "index": 1,
+      "cue_name": "Monster Rancher (USA).cue",
+      "bin_name": "Monster Rancher (USA) (Track 1).bin",
+      "size": 325022880,
+      "md5": "818415b73c39255ae0294e24aa4e19d7",
+      "sha1": "e79b66e3f41e345b0f5487103629ba93ca56ce03",
+      "crc32": "b1b85026",
+      "track_count": 2,
+      "tracks": [
+        {
+          "name": "Monster Rancher (USA) (Track 1).bin",
+          "size": "325022880",
+          "crc": "b1b85026",
+          "md5": "818415b73c39255ae0294e24aa4e19d7",
+          "sha1": "e79b66e3f41e345b0f5487103629ba93ca56ce03"
+        },
+        {
+          "name": "Monster Rancher (USA) (Track 2).bin",
+          "size": "36042048",
+          "crc": "1128adf1",
+          "md5": "50ca9e40cc2e6cbedd53d91b1bb46cf3",
+          "sha1": "58f13330cc336105aaf99e550ee95af868b77459"
+        }
+      ]
+    }
+  ]
+}

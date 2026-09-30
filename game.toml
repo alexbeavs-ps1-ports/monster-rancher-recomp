@@ -5,6 +5,8 @@ id = "SLUS-00568"
 players = 1
 exe = "disc/SLUS_005.68"
 disc = "disc/Monster Rancher (USA).cue"
+discs = ["disc/Monster Rancher (USA).cue"]
+disc_serials = ["SLUS-00568"]
 load_address = "0x80010000"
 entry_pc = "0x80091468"
 text_size = "0x0009E800"
@@ -21,7 +23,7 @@ known_sha1 = ["e79b66e3f41e345b0f5487103629ba93ca56ce03"]
 known_crc32 = ["b1b85026"]
 
 [recompiler]
-bios_config = "psxrecomp/bios/SCPH5552.toml"
+bios_config = "psxrecomp/bios/SCPH1001.toml"
 seeds = "seeds/ghidra_funcs.txt"
 out_dir = "generated"
 strict = true
